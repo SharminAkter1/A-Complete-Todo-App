@@ -1,0 +1,8 @@
+step 1 : create the html basic
+step 2 : style html color
+step 3 : find all the html element and add listeners
+step 4 : add todo
+step 5 : showMessage
+step 6 : adding todos in LocaStorage
+step 7 : delete todo
+step 8 : read todo
